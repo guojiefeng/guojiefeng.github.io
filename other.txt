@@ -1,0 +1,17 @@
+https://github.com/guojiefeng/ebook.git
+
+
+
+创建版本库，提交(commit)文件，推送(push)文件，更新文件，创建分支。
+
+
+1.创建一个版本库
+创建一个文件夹GitDemo，然后  右键--Git Create repository here...
+
+
+2.创建一个文件，然后提交(commit)到版本库[这个操作可以在离线状态操作]
+	右键--Git Commit -> "master"...
+
+
+3.推送(push),推送文件到远程仓库
+	右键--Git push...
